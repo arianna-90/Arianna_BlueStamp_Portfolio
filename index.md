@@ -7,7 +7,7 @@ You should comment out all portions of your portfolio that you have not complete
 <!--- Anything between these symbols will not render on the published site -->
 ```
 
-|Arianna R.|Perth Amboy High School| Mechanical Engineering |Rising Junior|
+|Arianna R.|Perth Amboy High School| Mechanical Engineering |Incoming Junior|
 |:--:|:--:|:--:|:--:|
 | FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
 
