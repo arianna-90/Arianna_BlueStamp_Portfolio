@@ -47,11 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I aimed to set up  my Raspberry Pi and magic mirror display screen which are integral parts of the projects. The Rasberry Pi serves as a computer to run and install code on the 7 inch monitor. The 7 inch monitor acts as a display for the smart mirror and as the device where the code is edited and installed. I managed to install the node.js code onto the display screeen using trial and error. The first challenege I was the installation of the Rasberrry Pi. Since it was my first time working with a Rasberry Pi, it took my tiunderstanding the purpose of the Rasberry Pi and how to install it. Once the Rasberry Pi  was installed , I managed to power on the display monitor screen and begin on installing code. My first was to install the "node.js" code into the rasperry pi montor. When I first attempted to install the code, I did so without the "sudo" command. I was unsure of why the terminal was tellign me there was an error. After consulting my instructor, I added the "sudo" command where it was needed and the code worked. After that I installed the magicmirror application. Once the apllication was installed, the monitor screen displayed the smart mirror. The smart mirror included the time, date, weather, and news. My next goal will be to add and edit modules. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
