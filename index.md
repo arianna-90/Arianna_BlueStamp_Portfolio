@@ -35,11 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For my second milestone, my goal was to personalize the default MagicMirror modules. For the weather module, I was able to change the temperture units from celcius to farenheight. I also managed to personalize the calender module and connect it to my personal google calendar. The biggest change I made for all the modules was changing the colors and the fonts of the texts.  A challenge that I faced in this milestone was figuring out in what files to configure the code. For example, when I tried to change the location of my weather module, I was unsure whether to configure it in the "config.js"  or "weather.js" file. After scrolling and looking through both of the files I settled on trying to configure the code in the "comfig.js" file because it mentioned latitude and longitute. Once I changed the lagitude and longitude to the coordinates I wanted, the screen displayed the specfic city I wanted. I continued to face this challenge as I tried configuring different modules. For my next milestone, I want to a new module. 
 
 # First Milestone
 
