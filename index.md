@@ -1,6 +1,4 @@
 # Magic Mirror
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
 The MagicMirror project is an interactive web server that displays different informative modules. It includes modules such as time, weather, news, and Spotify. While making the MagicMirror, I faced challenges such as understanding and learning code. One of my most memorable triumphs was installing a third party Sportify module. While installing that module, I made alot of mistakes with the code and it took nearly an hour to figure out what I was doing wrong. But once the module ws installed, I was happy to see that it was displayed well on my screen. In the endd, I am very staisfied with how I was able to create and personalize my MagicMirror. 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
