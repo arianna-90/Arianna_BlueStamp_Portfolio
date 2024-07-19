@@ -1,6 +1,7 @@
-# Smart Mirror
+# Magic Mirror
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
+The MagicMirror project is an interactive web server that displays different informative modules. It includes modules such as time, weather, news, and Spotify. While making the MagicMirror, I faced challenges such as understanding and learning code. One of my most memorable triumphs was installing a third party Sportify module. While installing that module, I made alot of mistakes with the code and it took nearly an hour to figure out what I was doing wrong. But once the module ws installed, I was happy to see that it was displayed well on my screen. In the endd, I am very staisfied with how I was able to create and personalize my MagicMirror. 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
@@ -8,7 +9,6 @@ You should comment out all portions of your portfolio that you have not complete
 ```
 
 |Arianna R.|Perth Amboy High School| Mechanical Engineering |Incoming Junior|
-|:--:|:--:|:--:|:--:|
 
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
@@ -26,7 +26,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-For my final milestone, I managed to install a new 3rd party module. It is a spotify module that displayed what song was beign currently palyed and when nothing is being played, it displayed some of the artists I listen to. I was also able to move around and adjust the size of modules so they would'nt overlap. I was also able to decorate my magic mirror by placing it in a small picture frame. This pricture frame protect the display screen from being scratched or damaged.  My biggest challenge in making the MagicMirror was the simple mistakes I made when first configuring my module files. A simple error such as the accidental placement on a equal sign or question mark caused the code not to work.
+For my final milestone, I managed to install a new 3rd party module. It is a spotify module that displayed what song was beign currently palyed and when nothing is being played, it displayed some of the artists I listen to. I was also able to move around and adjust the size of modules so they would'nt overlap. I was also able to decorate my magic mirror by placing it in a small picture frame. This pricture frame protect the display screen from being scratched or damaged.  My biggest challenge in making the MagicMirror was the simple mistakes I made when first configuring my module files. A simple error such as the accidental placement on a equal sign or question mark caused the code not to work. Throguhout the whole process of putting the MagicMirrior together, I learned alot about coding.  In the future< i hope to learn more Javascript and expand my coding skills. 
 
 
 # Second Milestone
