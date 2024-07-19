@@ -15,7 +15,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVbCLDQiMJI?si=Vv5rLp7n6fhbug1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- What you hope to learn in the future after everything you've learned at BSE
+
 For my final milestone, I managed to install a new 3rd party module. It is a spotify module that displayed what song was beign currently palyed and when nothing is being played, it displayed some of the artists I listen to. I was also able to move around and adjust the size of modules so they would'nt overlap. I was also able to decorate my magic mirror by placing it in a small picture frame. This pricture frame protect the display screen from being scratched or damaged.  My biggest challenge in making the MagicMirror was the simple mistakes I made when first configuring my module files. A simple error such as the accidental placement on a equal sign or question mark caused the code not to work. Throguhout the whole process of putting the MagicMirrior together, I learned alot about coding.  In the future< i hope to learn more Javascript and expand my coding skills. 
 
 
