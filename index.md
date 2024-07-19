@@ -15,14 +15,8 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 For my final milestone, I managed to install a new 3rd party module. It is a spotify module that displayed what song was beign currently palyed and when nothing is being played, it displayed some of the artists I listen to. I was also able to move around and adjust the size of modules so they would'nt overlap. I was also able to decorate my magic mirror by placing it in a small picture frame. This pricture frame protect the display screen from being scratched or damaged.  My biggest challenge in making the MagicMirror was the simple mistakes I made when first configuring my module files. A simple error such as the accidental placement on a equal sign or question mark caused the code not to work. Throguhout the whole process of putting the MagicMirrior together, I learned alot about coding.  In the future< i hope to learn more Javascript and expand my coding skills. 
 
@@ -36,6 +30,7 @@ For my second milestone, my goal was to personalize the default MagicMirror modu
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0E-MRdgi2A?si=KZoD979rfcC-B87a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 For my first milestone, I aimed to set up  my Raspberry Pi and magic mirror display screen which are integral parts of the projects. The Rasberry Pi serves as a computer to run and install code on the 7 inch monitor. The 7 inch monitor acts as a display for the smart mirror and as the device where the code is edited and installed. I managed to install the node.js code onto the display screeen using trial and error. The first challenege I was the installation of the Rasberrry Pi. Since it was my first time working with a Rasberry Pi, I took my time understanding the purpose of the Rasberry Pi and how to install it. Once the Rasberry Pi  was installed , I managed to power on the display monitor screen and begin on installing code. I then began to install the "node.js" code into the Rasperry Pi montor. When I first attempted to install the code, I did so without the "sudo" command. I was unsure of why the terminal was telling me there was an error. After consulting my instructor, I added the "sudo" command where it was needed and the code worked. After that I installed the smart mirror application. Once the application was installed, the monitor screen displayed the smart mirror. The smart mirror included the time, date, weather, and news. My next goal will be to add and edit modules. 
 
